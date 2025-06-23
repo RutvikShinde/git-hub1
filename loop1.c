@@ -7,7 +7,7 @@ int main ()
     i=0;
     while(i<=n)
     {
-        printf("hello world\n");
+        printf("hello world\n%d");
         i++;
     }
     return 0;
