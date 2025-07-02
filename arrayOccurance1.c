@@ -3,7 +3,7 @@
  int main()
  {
     FILE *fp;
-    char data[100];
+    // char data[100];
     int i,n,key,count=0,a[100];
     fp = fopen("number.txt","r");
     printf("enter a N \n");
